@@ -47,7 +47,18 @@ KB 경영연구소에 따르면 반려인의 20.4%이 향후 반려동물 여행
 라벨의 정확도를 위해 라벨링은 불용어 처리 전 원본 댓글을 읽으며 라벨링 하였습니다.
 
 ![데이터마이닝_팀_프로젝트_1조_page-0012](https://github.com/kimjoosilver/Text_mining/assets/87303227/0e87a73d-59ae-492e-abac-641c31a0e46e)
+긍정 댓글의 주요 키워드에는 추억, 사랑, 힐링, 덕분, 최고 등의 키워드가 포함되었습니다.
 
 ![데이터마이닝_팀_프로젝트_1조_page-0013](https://github.com/kimjoosilver/Text_mining/assets/87303227/19a72ba7-fdb1-47b4-ac10-c4ee5d18b2e0)
+긍정과 부정이 혼합된 댓글의 주요 키워드에서는 냄새, 그냥, 소리, 벌레 키워드가 포함되었습니다.
 
 ![데이터마이닝_팀_프로젝트_1조_page-0014](https://github.com/kimjoosilver/Text_mining/assets/87303227/9177177b-e6b3-4e55-aab3-c5a7eb7943ee)
+부정 댓글의 주요 키워드에서는 이불, 최악, 냄새, 벌레 등의 부정적인 키워드가 긍부정 혼합 댓글보다 빈번하게 나타났습니다.
+
+![데이터마이닝_팀_프로젝트_1조_page-0015](https://github.com/kimjoosilver/Text_mining/assets/87303227/2f80b17e-b690-4fc7-a759-8e4f2f92fd00)
+벡터화 방법 BoW, TF-IDF, Wod2Vec 중에서는 TF-IDF, Wod2Vec의 성능이 좋았고
+TF-IDF, Wod2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지스틱 회귀분석의 성능이 가장 높아  TF-IDF로 
+
+![데이터마이닝_팀_프로젝트_1조_page-0017](https://github.com/kimjoosilver/Text_mining/assets/87303227/4a34f311-655a-487c-94dd-b45021bb65b3)
+![데이터마이닝_팀_프로젝트_1조_page-0018](https://github.com/kimjoosilver/Text_mining/assets/87303227/12ea1540-eb28-488c-8611-493c18038eff)
+
