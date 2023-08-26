@@ -62,3 +62,7 @@ TF-IDF, Wod2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지�
 ![데이터마이닝_팀_프로젝트_1조_page-0017](https://github.com/kimjoosilver/Text_mining/assets/87303227/4a34f311-655a-487c-94dd-b45021bb65b3)
 ![데이터마이닝_팀_프로젝트_1조_page-0018](https://github.com/kimjoosilver/Text_mining/assets/87303227/12ea1540-eb28-488c-8611-493c18038eff)
 
+
+![image](https://github.com/kimjoosilver/Text_mining/assets/87303227/a416bc74-cab9-4088-81bb-c2175786208a)
+
+
