@@ -56,13 +56,22 @@ KB 경영연구소에 따르면 반려인의 20.4%이 향후 반려동물 여행
 부정 댓글의 주요 키워드에서는 이불, 최악, 냄새, 벌레 등의 부정적인 키워드가 긍부정 혼합 댓글보다 빈번하게 나타났습니다.
 
 ![데이터마이닝_팀_프로젝트_1조_page-0015](https://github.com/kimjoosilver/Text_mining/assets/87303227/2f80b17e-b690-4fc7-a759-8e4f2f92fd00)
-벡터화 방법 BoW, TF-IDF, Wod2Vec 중에서는 TF-IDF, Wod2Vec의 성능이 좋았고
-TF-IDF, Wod2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지스틱 회귀분석의 성능이 가장 높아  TF-IDF로 
+벡터화 방법 BoW, TF-IDF, Word2Vec 중에서는 Word2Vec의 성능이 가장 좋았고 BoW의 성능이 가장 낮게 나왔다.
+
+TF-IDF, Word2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지스틱 회귀분석의 성능이 가장 높아  TF-IDF, Word2Vec으로 다항 로지스틱 회귀분석을 이용한 모델을 만들었다.
 
 ![image](https://github.com/kimjoosilver/Text_mining/assets/87303227/a416bc74-cab9-4088-81bb-c2175786208a)
 
 
 ![데이터마이닝_팀_프로젝트_1조_page-0018](https://github.com/kimjoosilver/Text_mining/assets/87303227/12ea1540-eb28-488c-8611-493c18038eff)
+![데이터마이닝_팀_프로젝트_1조_page-0019](https://github.com/kimjoosilver/Text_mining/assets/87303227/05aebb44-aac0-4b9b-915e-ec2d992a9c47)
+![데이터마이닝_팀_프로젝트_1조_page-0020](https://github.com/kimjoosilver/Text_mining/assets/87303227/9297c3fb-4690-48ce-858c-2a85f629d585)
+![데이터마이닝_팀_프로젝트_1조_page-0021](https://github.com/kimjoosilver/Text_mining/assets/87303227/0130a860-a108-48b3-a41c-ed1269abf146)
+![데이터마이닝_팀_프로젝트_1조_page-0022](https://github.com/kimjoosilver/Text_mining/assets/87303227/20bc912a-b6ab-4430-957e-a05cf70100aa)
+![데이터마이닝_팀_프로젝트_1조_page-0023](https://github.com/kimjoosilver/Text_mining/assets/87303227/cbcaf4d0-9c99-49e8-9261-467b7cf2369a)
+![데이터마이닝_팀_프로젝트_1조_page-0024](https://github.com/kimjoosilver/Text_mining/assets/87303227/47b8932f-eec0-4246-a9c3-a886b2cc07f1)
+![데이터마이닝_팀_프로젝트_1조_page-0025](https://github.com/kimjoosilver/Text_mining/assets/87303227/21b651ff-581b-4f7b-81db-fd5cc126faaa)
+![데이터마이닝_팀_프로젝트_1조_page-0026](https://github.com/kimjoosilver/Text_mining/assets/87303227/55545f0f-1443-4e47-9098-53a4a846c63d)
 
 
 
