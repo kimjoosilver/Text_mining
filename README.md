@@ -73,7 +73,18 @@ TF-IDF, Word2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지�
 ![데이터마이닝_팀_프로젝트_1조_page-0023](https://github.com/kimjoosilver/Text_mining/assets/87303227/cbcaf4d0-9c99-49e8-9261-467b7cf2369a)
 ![데이터마이닝_팀_프로젝트_1조_page-0024](https://github.com/kimjoosilver/Text_mining/assets/87303227/47b8932f-eec0-4246-a9c3-a886b2cc07f1)
 ![데이터마이닝_팀_프로젝트_1조_page-0025](https://github.com/kimjoosilver/Text_mining/assets/87303227/21b651ff-581b-4f7b-81db-fd5cc126faaa)
-![데이터마이닝_팀_프로젝트_1조_page-0026](https://github.com/kimjoosilver/Text_mining/assets/87303227/55545f0f-1443-4e47-9098-53a4a846c63d)
+
+프로젝트 평가 및 보안점
+
+전처리를 하고난 뒤의 데이터 수가 생각보다 적어 아쉬웠습니다. 
+모델이 적은 양의 데이터에 의존하기 때문에 모델의 신뢰성에 의구심을 가질 수 있습니다.
+
+이를 해결하기 위해 반려동물 토큰을 늘렸지만 크게 달라지지 않았습니다. 따라서 추가적인 크롤링을 통해 데이터의 수를 늘리는 것이 필요합니다.
+
+
+
+
+
 
 
 
