@@ -74,7 +74,9 @@ TF-IDF, Word2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지�
 ![데이터마이닝_팀_프로젝트_1조_page-0024](https://github.com/kimjoosilver/Text_mining/assets/87303227/47b8932f-eec0-4246-a9c3-a886b2cc07f1)
 ![데이터마이닝_팀_프로젝트_1조_page-0025](https://github.com/kimjoosilver/Text_mining/assets/87303227/21b651ff-581b-4f7b-81db-fd5cc126faaa)
 
+
 프로젝트 평가 및 보안점
+
 
 전처리를 하고난 뒤의 데이터 수가 생각보다 적어 아쉬웠습니다. 
 모델이 적은 양의 데이터에 의존하기 때문에 모델의 신뢰성에 의구심을 가질 수 있습니다.
