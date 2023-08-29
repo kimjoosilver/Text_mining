@@ -2,7 +2,9 @@
 
 # 반려인을 위한 숙소 리뷰 분류 모델
 
-### 김주은, 황민규
+프로젝트 기간: 2023년 2월 3일 - 2023년 2월 13일
+
+팀원: 김주은, 황민규 (ㄱㄴㄷ순)
 
 ![데이터마이닝_팀_프로젝트_1조_page-0002](https://github.com/kimjoosilver/Text_mining/assets/87303227/035179b8-b79e-4530-8225-4c23db9221f3)
 ![데이터마이닝_팀_프로젝트_1조_page-0003](https://github.com/kimjoosilver/Text_mining/assets/87303227/d8022d02-3e43-4903-9b39-b5096dca1d4e)
