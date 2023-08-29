@@ -58,9 +58,9 @@ KB 경영연구소에 따르면 반려인의 20.4%이 향후 반려동물 여행
 부정 댓글의 주요 키워드에서는 이불, 최악, 냄새, 벌레 등의 부정적인 키워드가 긍부정 혼합 댓글보다 빈번하게 나타났습니다.
 
 ![데이터마이닝_팀_프로젝트_1조_page-0015](https://github.com/kimjoosilver/Text_mining/assets/87303227/2f80b17e-b690-4fc7-a759-8e4f2f92fd00)
-벡터화 방법 BoW, TF-IDF, Word2Vec 중에서는 Word2Vec의 성능이 가장 좋았고 BoW의 성능이 가장 낮게 나왔다.
+벡터화 방법 BoW, TF-IDF, Word2Vec 중에서는 Word2Vec의 성능이 가장 좋았고 BoW의 성능이 가장 낮게 나왔습니다.
 
-TF-IDF, Word2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지스틱 회귀분석의 성능이 가장 높아  TF-IDF, Word2Vec으로 다항 로지스틱 회귀분석을 이용한 모델을 만들었다.
+TF-IDF, Word2Vec에서 다양한 모델로 적합시켜본 결과 다항 로지스틱 회귀분석의 성능이 가장 높아  TF-IDF, Word2Vec으로 다항 로지스틱 회귀분석을 이용한 모델을 만들었습니다.
 
 ![image](https://github.com/kimjoosilver/Text_mining/assets/87303227/a416bc74-cab9-4088-81bb-c2175786208a)
 
